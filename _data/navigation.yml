@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "About"
-    url: /about/
+    url: index.html
+  - title: "CV"
+    url: /CV/

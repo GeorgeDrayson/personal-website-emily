@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Emily Duchenne
-email: emily.duchenne@gmail.com
+title: George Drayson
+email: george.drayson@nebuladigital.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -58,31 +58,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Emily Duchenne"
+  name   : "George Drayson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I care about a lot of things.<br>Here are some of them."
+  bio    : "Head of Machine Learning at GotYa<br>4th year Engineering Science student at Oxford University<br>Makers Academy Graduate"
   links:
-    - label: "London"
-      icon: "fa fa-fw fa-map-marker"
-      url: ""
-    - label: "Oxford (MSc & BA)"
+    - label: "Oxford University"
       icon: "fa fa-fw fa-university"
       url: ""
     - label: "Email"
       icon: "fab fa-fw fa-telegram"
-      url: "mailto:emily.duchenne@gmail.com"
+      url: "mailto:george.drayson@nebuladigital.co.uk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/emilyduchenne/"
+      url: "https://www.linkedin.com/in/george-drayson-1999007/"
 
 footer:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-telegram"
-      url: "mailto:emily.duchenne@gmail.com"
+      url: "mailto:george.drayson@nebuladigital.co.uk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/emilyduchenne/"
+      url: "https://www.linkedin.com/in/george-drayson-1999007/"
 
 defaults:
   # _posts
